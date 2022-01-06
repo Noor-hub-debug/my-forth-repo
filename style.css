@@ -1,0 +1,88 @@
+body{
+    font-family: 'Parisienne', cursive;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+} 
+.Rebecca-Purple{
+    color: RebeccaPurple;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(DeepSkyBlue,DarkTurquoise);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+#my-misson{
+    background-color: LemonChiffon;
+    
+
+}
+#my-visson{
+    background-color: LightCyan;
+    
+}
+#my-goals{
+    background-color:LavenderBlush ;
+}
+.box-color{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
+}
+.dream-big{
+    background-image: url(illustrators/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 2%;
+}
+.project-big{
+    background-image: url(illustrators/shape-1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#fight-corona{
+    width: 40%;
+    border-radius: 50px;
+    
+}
+.last-finish{
+    background-color: black;
+}
+.last-misson{
+    color: white;
+    font-style: italic;
+}
+.last-year{
+    color: tomato;
+    font-style: italic;
+}
+footer{
+    color: tomato;
+}
+.border-margin{
+    
+}
+
+    
+
+
+
+    
+
+    
